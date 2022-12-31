@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50pt;
+    border-style: ridge;
+     ;
+
+}
+input[type="text"] {
+    width: 400px;
+    height: 50px;
+    background-color: lavender;
+  }
+  
+
+section{
+    
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid blueviolet;
+    padding: 10px;
+    margin: auto;
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.middleSection{
+        
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid blueviolet;
+    padding: 10px;
+    margin: auto;
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    background-color: lavender;
+    text-decoration-color: grey;
+  
+}
+
+.addBtn{
+    padding: 30px;
+    border-radius: 10%;
+    
+}
+.addBtn:hover{
+    background-color: blueviolet;
+}
+ul {
+    list-style-type: square;
+    list-style-position: outside;
+ 
+    
+}
+ul li.checked {
+    text-decoration: line-through ;
+}
+
+
